@@ -48,7 +48,7 @@ public class Promp {
 		if(catagory.toLowerCase().equals("quote"))
 		{
 			return "Take a role a expert quote teller tell me a great quote around "+ prompt
-					 + "only return the quote nothing else with max on 30 length like an interprator send ony the output for a code.";
+					 + "only return the quote nothing else with like an interprator send ony the output for a code.";
 		}
 		else if(catagory.toLowerCase().equals("joke"))
 		{
